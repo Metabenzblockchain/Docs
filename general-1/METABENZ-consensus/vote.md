@@ -1,10 +1,10 @@
 # Vote
 
-METABENZ Network Network chain functionality can be change by voting on the contracts implementations. New implementations can be deployed, and opened to vote by validators for others to decide on whether to accept/reject the changes.
+METABENZ Network  chain functionality can be change by voting on the contracts implementations. New implementations can be deployed, and opened to vote by validators for others to decide on whether to accept/reject the changes.
 
 ## Open a new ballot
 
-In order to open a new vote, a validator needs to call the \`newBallot\` function on the [voting contract](https://metabenz.com/address/0x23a0f3370F7dCc4203c3F7f588856f388F3274e8) with the following params:
+In order to open a new vote, a validator needs to call the \`newBallot\` function on the voting contract with the following params:
 
 * startAfterNumberOfCycles - number of cycles (minimum 1) after which the ballot is open for voting
 * cyclesDuration - number of cycles (minimum 2) for the ballot to remain open for voting
