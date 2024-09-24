@@ -1,6 +1,6 @@
 # Discovering the Network
 
-The following information will help you discover and connect to the METABENZ Network Network blockchain:
+The following information will help you discover and connect to the METABENZ  Network blockchain:
 
 * Network name: **METABENZ Network**
 * Chan Id: 9982

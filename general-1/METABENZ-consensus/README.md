@@ -30,8 +30,6 @@ This contract is responsible for generating and distributing block rewards to th
 
 Another role of this contract is to call the snapshot/cycle logic on the Consensus contract
 
-This contract is based on `BlockReward` [described in Parity Wiki](https://wiki.parity.io/Block-Reward-Contract).
-
 ## Voting - 0xEA0A484E0ba8e5FCA215b876E46c1d4AC658e059
 
 This contract is responsible for opening new ballots and voting to accept/reject them. Ballots are basically offers to change other network contracts implementation.
