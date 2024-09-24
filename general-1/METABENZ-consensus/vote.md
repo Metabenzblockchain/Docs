@@ -6,26 +6,22 @@ METABENZ Network Network chain functionality can be change by voting on the cont
 
 In order to open a new vote, a validator needs to call the \`newBallot\` function on the [voting contract](https://metabenz.com/address/0x23a0f3370F7dCc4203c3F7f588856f388F3274e8) with the following params:
 
-- startAfterNumberOfCycles - number of cycles (minimum 1) after which the ballot is open for voting
-- cyclesDuration - number of cycles (minimum 2) for the ballot to remain open for voting
-- contractType
-  - 1 - Consensus
-  - 2 - BlockReward
-  - 3 - ProxyStorage
-  - 4 - Voting
-- proposedValue - address of the new implementation deployed for the relevant contract type
-- description - text description which should contain the reason/change introduced in the ballot
-
-![new ballot](<../../.gitbook/assets/image (5).png>)
+* startAfterNumberOfCycles - number of cycles (minimum 1) after which the ballot is open for voting
+* cyclesDuration - number of cycles (minimum 2) for the ballot to remain open for voting
+* contractType
+  * 1 - Consensus
+  * 2 - BlockReward
+  * 3 - ProxyStorage
+  * 4 - Voting
+* proposedValue - address of the new implementation deployed for the relevant contract type
+* description - text description which should contain the reason/change introduced in the ballot
 
 ## Check ballot info
 
 Everyone can check all the ballots that were created using the \`getBallotInfo\` function. This function receives two params:
 
-- id - the ballot id
-- key - account address
-
-![getBallotInfo](<../../.gitbook/assets/image (2).png>)
+* id - the ballot id
+* key - account address
 
 ## Vote
 
@@ -35,12 +31,10 @@ It's important to note that at the end of a vote, only validators count towards 
 
 Voting is done by calling the \`vote\` function, which receives two params:
 
-- id - the ballot id
-- choice - 1 is accept, 2 is reject
+* id - the ballot id
+* choice - 1 is accept, 2 is reject
 
-![vote](../../.gitbook/assets/image.png)
-
-Some other useful functions on the [voting contract](https://metabenz.com/address/0x23a0f3370F7dCc4203c3F7f588856f388F3274e8) are:
+Some other useful functions on the voting contract are:
 
 ## getQuorumState
 

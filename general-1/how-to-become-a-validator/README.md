@@ -1,8 +1,8 @@
 # How to become a validator
 
-The METABENZ Blockchain network is operated by validator nodes that are hosted by network participants from all around the world. The network allows entrepreneurs to easily plug payments to their products and on-board their users to a platform that allows them to pay, transact and access financial services in their favorite currency.
+The METABENZ  Network is operated by validator nodes that are hosted by network participants from all around the world. The network allows entrepreneurs to easily plug payments to their products and on-board their users to a platform that allows them to pay, transact and access financial services in their favorite currency.
 
-All the access to the network is public and all the code is open source so it could be customized and localized to their needs. Any community that lives on the METABENZ Blockchain chain needs to pay a small fee to the validators of the network to validate its transactions in the community.
+All the access to the network is public and all the code is open source so it could be customized and localized to their needs. Any community that lives on the METABENZ Network needs to pay a small fee to the validators of the network to validate its transactions in the community.
 
 The more communities and users conducting transactions, the more validators will earn as a reward for approving the transaction. This allows the network to grow organically as more usage in the system more network participants rewards grow.
 
@@ -51,5 +51,5 @@ You can delegate you METABENZ Blockchain token to a validator of your choosing. 
 
 ### How to become a validator?
 
-* Minimum of 100K Networks staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 100K METABENZ Network Networks needs to be locked in a contract to be eligible to become a validator.
+* Minimum of 50K Networks staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 50K METABENZ Network Networks needs to be locked in a contract to be eligible to become a validator.
 * Run a full node.
