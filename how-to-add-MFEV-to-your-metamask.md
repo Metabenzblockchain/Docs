@@ -6,7 +6,7 @@
 {% hint style="info" %}
 Optionally you can add the full parameters:
 
-**Additional**: https://rpc.metabenzscn.com\
+**Additional**: https://rpc.metabenzscan.com\
 **ChainId**: 97766\
 **Explorer**: https://metabenzscan.com\
 **symbol**: MBC
