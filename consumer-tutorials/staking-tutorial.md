@@ -10,9 +10,7 @@ How to Stake METABENZ Blockchain:
 
 **Step 1:**
 
-Navigate to staking.metabenz.com and login to your wallet through metamask. Make sure you are on METABENZ Blockchain network. If you are not please follow the instructions [**here**](https://doc.metabenz.com/the-METABENZ-studio/getting-started/how-to-add-METABENZ-to-your-metamask).
-
-![](../.gitbook/assets/0%20\(4\).png)
+Navigate to staking.metabenz.com and login to your wallet through metamask. Make sure you are on METABENZ Blockchain network. If you are not please follow the instructions **here**.
 
 **Step 2:**
 

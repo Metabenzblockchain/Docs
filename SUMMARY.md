@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Summary](README.md)
-* [METABENZ Network overview](Metabenz-overview.md)
 * [Getting started as a validator](getting-started.md)
 * [How to add METABENZ Network Network to your Metamask](how-to-add-MFEV-to-your-metamask.md)
 * [Staking tutorial](staking-tutorial.md)
@@ -10,12 +9,8 @@
 * [consumer-tutorials](consumer-tutorials/README.md)
   * [Deploying smart contract on METABENZnet](consumer-tutorials/deploying-smart-contract-on-fusenet.md)
   * [Staking tutorial](consumer-tutorials/staking-tutorial.md)
-  * [How to use WalletConnect on METABENZ and add liquidity on METABENZ](consumer-tutorials/walletconnect-tutorial.md)
-  * [Adding liquidity to METABENZ](consumer-tutorials/adding-liquidity/README.md)
-    * [WETH Migration tutorial](consumer-tutorials/adding-liquidity/migration-tutorial.md)
 * [general-1](general-1/README.md)
   * [How to run network nodes](general-1/how-to-run-network-nodes.md)
-  * [Tokenomics](general-1/tokenomics.md)
   * [METABENZ Blockchain Consensus](general-1/METABENZ-consensus/README.md)
     * [Contract Addresses](general-1/METABENZ-consensus/contract-addresses.md)
     * [Contracts Overview](general-1/METABENZ-consensus/contracts-overview.md)
@@ -48,4 +43,3 @@
       * [Delegation through Staking with Validators](general/learn-about-the-Metabenz-platform/Metabenz-blockchain/validators-and-delegation.md)
     * [Metabenz-governance-and-development](general/learn-about-the-metabenz-platform/metabenz-governance-and-development-1.md)
     * [Metabenz-token](general/learn-about-the-metabenz-platform/metabenz-token.md)
-* [technical-docs](technical-docs.md)
