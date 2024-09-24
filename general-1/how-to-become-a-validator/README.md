@@ -40,7 +40,7 @@ Validators are the guardians of the network and are in charge of not only mainta
 
 ### Who can become a validator (Technical requirements)
 
-* [See _Running a validator node_\_\_](https://github.com/METABENZOfficial/Become-Validator)
+* [See _Running a validator node_\_\_](https://github.com/Metabenzblockchain/Become-Validator)
 
 ### Who shouldn’t become a validator (and what can he still do)
 
@@ -51,5 +51,5 @@ You can delegate you METABENZ Blockchain token to a validator of your choosing. 
 
 ### How to become a validator?
 
-* Minimum of 50K Networks staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 50K METABENZ Network Networks needs to be locked in a contract to be eligible to become a validator.
+* Minimum of 50K Networks staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 50K METABENZ  Networks needs to be locked in a contract to be eligible to become a validator.
 * Run a full node.

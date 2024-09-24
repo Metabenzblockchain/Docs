@@ -2,9 +2,9 @@
 
 ### General Information
 
-| Block size | Block speed | Gas price       | Patchset | Native token | Network ID |
-| ---------- | ----------- | --------------- | -------- | ------------ | ---------- |
-| 591 bytes | 5 seconds   | 824.999999998 Gwei |          | METABENZ         | 97766      |
+| Block size | Block speed | Gas price          | Patchset | Native token | Network ID |
+| ---------- | ----------- | ------------------ | -------- | ------------ | ---------- |
+| 591 bytes  | 5 seconds   | 824.999999998 Gwei |          | METABENZ     | 97766      |
 
 * D: **METABENZ Network (METABENZ)**
 * ChanId: **97766**
@@ -15,6 +15,6 @@
 
 ### Blockchain explorer
 
-**METABENZ Network Network Explorer** is the official blockchain explorer for METABENZ Network Network. With this full-featured, open-source explorer you can view transactions, accounts & balances, access data via the API, and read and verify smart contracts.
+**METABENZ  Network Explorer** is the official blockchain explorer for METABENZ  Network. With this full-featured, open-source explorer you can view transactions, accounts & balances, access data via the API, and read and verify smart contracts.
 
 ###

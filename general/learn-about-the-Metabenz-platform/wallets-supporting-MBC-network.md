@@ -1,3 +1,3 @@
-# Wallets supporting METABENZ Network Network
+# Wallets supporting METABENZ  Network
 
-Metamask currently support the METABENZ Network Network blockchain.
+Metamask currently support the METABENZ  Network blockchain.

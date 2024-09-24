@@ -1,2 +1,0 @@
-# Metabenz-token
-
